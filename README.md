@@ -1,6 +1,6 @@
 # handson_2
 
-The solution of question-1 is in SOlution_1 file
+The solution of question-1 is in Solution_1 file
 
 The solutions of question 2 to 6 are in solutions_of_2to6 file
 
